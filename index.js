@@ -1,4 +1,6 @@
-var spellchecker = require("spellchecker");
+
+// var spellchecker = require("spellchecker");
+var spellchecker = { isMisspelled: ()=> false };
 
 exports = module.exports = new Grammarify();
 
