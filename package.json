@@ -19,6 +19,5 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "spellchecker": "3.4.4"
   }
 }
